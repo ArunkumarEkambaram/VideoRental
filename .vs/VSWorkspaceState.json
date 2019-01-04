@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\VideoRental_MVC",
+    "\\VideoRental_MVC\\VideoRental_MVC",
+    "\\VideoRental_MVC\\VideoRental_MVC\\Models",
+    "\\VideoRental_MVC\\VideoRental_MVC\\ViewModel"
   ],
   "PreviewInSolutionExplorer": false
 }
